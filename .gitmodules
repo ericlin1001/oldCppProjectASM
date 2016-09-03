@@ -1,0 +1,33 @@
+[submodule "AI"]
+	path = AI
+	url = https://github.com/ericlin1001/oldCppProjectASM.AI
+[submodule "DevTest"]
+	path = DevTest
+	url = https://github.com/ericlin1001/oldCppProjectASM.DevTest
+[submodule "console"]
+	path = console
+	url = https://github.com/ericlin1001/oldCppProjectASM.console
+[submodule "GraphicProcess"]
+	path = GraphicProcess
+	url = https://github.com/ericlin1001/oldCppProjectASM.GraphicProcess
+[submodule "libdllLearn"]
+	path = libdllLearn
+	url = https://github.com/ericlin1001/oldCppProjectASM.libdllLearn
+[submodule "MachineLearning"]
+	path = MachineLearning
+	url = https://github.com/ericlin1001/oldCppProjectASM.MachineLearning
+[submodule "matlabWithC++"]
+	path = matlabWithC++
+	url = https://github.com/ericlin1001/oldCppProjectASM.matlabWithC++
+[submodule "OpenGL"]
+	path = OpenGL
+	url = https://github.com/ericlin1001/oldCppProjectASM.OpenGL
+[submodule "orge"]
+	path = orge
+	url = https://github.com/ericlin1001/oldCppProjectASM.orge
+[submodule "web"]
+	path = web
+	url = https://github.com/ericlin1001/oldCppProjectASM.web
+[submodule "WindowsPrograming"]
+	path = WindowsPrograming
+	url = https://github.com/ericlin1001/oldCppProjectASM.WindowsPrograming
