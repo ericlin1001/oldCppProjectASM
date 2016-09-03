@@ -18,7 +18,7 @@
 	url = https://github.com/ericlin1001/oldCppProjectASM.MachineLearning
 [submodule "matlabWithC++"]
 	path = matlabWithC++
-	url = https://github.com/ericlin1001/oldCppProjectASM.matlabWithC++
+	url = https://github.com/ericlin1001/oldCppProjectASM.matlabWithC-
 [submodule "OpenGL"]
 	path = OpenGL
 	url = https://github.com/ericlin1001/oldCppProjectASM.OpenGL
